@@ -1,0 +1,23 @@
+td, th {
+	border: 1px solid;
+	color:blue;
+	font-family: "Brush Script MT", "Lucida Handwriting", Cursive;
+	
+  }
+body {
+	background:lightblue;
+}
+#header h1 {
+  color: grey;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-decoration-line: underline;
+  text-decoration-color: blue;
+}
+#planets {
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+img {
+	border: 5px solid darkblue;
+	border-radius: 50%;
+}
